@@ -37,7 +37,7 @@ Welcome to the Banking Management System project! This Python-based application 
 
 2. Navigate to the project directory.
    ```bash
-   cd Banking-Management-System
+   cd Banking System
    ```
 
 3. Run the script.
